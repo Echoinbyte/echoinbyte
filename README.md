@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://possibleweb.vercel.app)
+[![MasterHead](https://ssl.pstatic.net/static/blog/img_ani_blogid1.gif)](https://possibleweb.vercel.app)
 <h1 align="center">Hi Echo👋, here (Sambhav Aryal)</h1>
 <h3 align="center">A passionate Full stack developer, somewhere from Earth.</h3>
 <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="400" alt="Coding_Gif" />
@@ -15,9 +15,8 @@
 
 - 📫 Reach me through Gmail Baba's **echoinbyte@gmail.com**
 
-- ⚡ Fun fact **I am 15 but due to age restriction I am 18**
+- ⚡ Fun fact **I am 16 but due to age restriction I am 18**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -38,6 +37,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=echoinbyte&show_icons=true&locale=en&layout=compact" alt="echoinbyte" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echoinbyte&show_icons=true&locale=en" alt="echoinbyte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echoinbyte&" alt="echoinbyte" /></p>
