@@ -33,7 +33,12 @@
 ### 🧰 Tools & Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,css,html,redux,nodejs,express,mongodb,git,figma,blender,unity,unreal" alt="Echoinbyte | Sambhav Aryal's Skills" />
+<img 
+  src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,bootstrap,materialui,threejs,d3,nodejs,express,mongodb,postgres,redis,supabase,appwrite,regex,jest,git,npm,postman,vercel,netlify,vscode,webstorm,figma,xd,ae,ai,blender,unity,unreal,notion,linkedin,gmail,discordjs,latex" 
+  alt="Echoinbyte | Sambhav Aryal's Skills" 
+/>
+
+
 </p>
 
 ---
