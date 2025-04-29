@@ -46,8 +46,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=echoinbyte&theme=tokyonight" alt="Echoinbyte | Sambhav Aryal's Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoinbyte&layout=compact&theme=tokyonight" alt="Echoinbyte | Sambhav Aryal's Github Language Preferences" />
 </p>
 
